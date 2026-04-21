@@ -1,0 +1,37 @@
+{
+    "create_call_channel_id": 1494675459286237356,
+    "invite_logs_channel_id": 1494815538315264020,
+    "ticket_category_loja_id": 1490088036828975135,
+    "ticket_category_suporte_id": 1495183704086151341,
+    "partner_youtube_channels": {
+        "UCy_Hnt5igu8TjZuC5bx0gDA": {
+            "last_video_id": "N4F720UC3U0",
+            "adicionado_em": "2026-04-04T18:47:19.627717"
+        },
+        "UCyvGAqQJufMmITVqeb5K5RQ": {
+            "last_video_id": "sUrReLGzDtI",
+            "adicionado_em": "2026-04-04T20:11:12.736499"
+        },
+        "UC5cYLJLpC9uxtxWsFvKVHQQ": {
+            "last_video_id": null,
+            "adicionado_em": "2026-04-18T22:23:06.167034"
+        }
+    },
+    "partner_forward_target_id": 1490058858935222433,
+    "vip_roles": {
+        "bronze": 1490061294303314030,
+        "scripts": 1490115354817728512,
+        "prata": 1490115700713586808,
+        "ouro": 1490115821824118836,
+        "vip bronze": 1492959116816289943,
+        "vip ouro": 1492959218737615060,
+        "vip prata": 1492959007244292126
+    },
+    "parceiros": {
+        "Lobo5%": "775105629396008990"
+    },
+    "welcome_channel_id": 1494673700832809012,
+    "leave_channel_id": 1494673850171133952,
+    "booster_channel_id": 1494673903480602826,
+    "member_role_id": 1493001136771436764
+}
